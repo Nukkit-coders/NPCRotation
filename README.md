@@ -2,7 +2,7 @@
 This Plugin makes your NPCs on Nukkit look on you.
 
 # How to
-1. Download the jar.
+1. [Download](https://github.com/PocketMiner82/NPCRotation/releases/latest) the jar.
 2. Put the jar in the plugins folder of your Nukkit server.
 3. Make sure you installed [this](https://nukkitx.com/resources/npc.143/).
 4. Restart the server and enjoy!
