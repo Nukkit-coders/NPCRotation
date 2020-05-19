@@ -1,5 +1,5 @@
 name: NPCRotation
-version: "1.0"
+version: "1.1.0"
 api: ["1.0.0"]
 author: PocketMiner82
 description: "NPCs look at players, when they move! (ported SlapperRotation by jojoe77777 from PMMP to Nukkit)"
