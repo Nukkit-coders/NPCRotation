@@ -1,1 +1,8 @@
+# The maximum distance, within the rotation of NPCs works
 max-distance: 16
+# List containing all levels, where the rotation is disabled
+# e.g.:
+# disabledLevels:
+#  - "world"
+#  - "nether"
+disabledLevels: []
